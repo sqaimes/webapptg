@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wolf Shield
+* source:	https://sketchfab.com/3d-models/wolf-shield-c8f6fbde37194e1684aa148bdd5fa755
+* author:	Lucas Rios (https://sketchfab.com/lukeibol)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wolf Shield" (https://sketchfab.com/3d-models/wolf-shield-c8f6fbde37194e1684aa148bdd5fa755) by Lucas Rios (https://sketchfab.com/lukeibol) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

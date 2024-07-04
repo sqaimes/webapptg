@@ -1,0 +1,11 @@
+Model Information:
+* title:	Explorer Goggles
+* source:	https://sketchfab.com/3d-models/explorer-goggles-426c88d1811b47898ca63a0e938cc332
+* author:	Anthony.Do (https://sketchfab.com/Anthony.Do)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Explorer Goggles" (https://sketchfab.com/3d-models/explorer-goggles-426c88d1811b47898ca63a0e938cc332) by Anthony.Do (https://sketchfab.com/Anthony.Do) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

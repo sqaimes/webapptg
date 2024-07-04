@@ -1,0 +1,11 @@
+Model Information:
+* title:	Téléscope
+* source:	https://sketchfab.com/3d-models/telescope-46a5e7701e8641b9968ee1cb278cb524
+* author:	MrGosemick (https://sketchfab.com/MrGosemick)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Téléscope" (https://sketchfab.com/3d-models/telescope-46a5e7701e8641b9968ee1cb278cb524) by MrGosemick (https://sketchfab.com/MrGosemick) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
